@@ -63,6 +63,7 @@
             <img src="../public/2880px-Naruto_logo_.svg.png" alt="">
         </div>
     </div>
+    
     <div class="row" id="section-2">
         <div class="one-column">
             <h1>Subscríbete</h1>
